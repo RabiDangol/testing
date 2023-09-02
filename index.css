@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar ul {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 10px;
+    background-color: rgb(1, 1, 44);
+    color: aliceblue;
+
+}
+.nav-bar ul li {
+    list-style: none;
+}
+.rabi{
+    background-color: rgb(4, 8, 70);
+}
